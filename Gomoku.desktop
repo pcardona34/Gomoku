@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=X-GNUstep;
+Name=Gomoku
+StartupWMClass=Gomoku
+Comment="A tic-tac-toe game for GNUstep"
+Icon=/Applications/Gomoku.app/Resources/Gomoku.tiff
+Exec=/System/bin/openapp Gomoku
+MimeType=

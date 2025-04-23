@@ -64,7 +64,9 @@ Gomoku_RESOURCE_FILES = \
   HumanTopRight.png \
   HumanBottomLeft.png \
   HumanBottomRight.png \
-  Gomoku.png
+  Gomoku.png \
+  Gomoku.tiff \
+  Gomoku.desktop
 
 Gomoku_LANGUAGES = \
   English \
